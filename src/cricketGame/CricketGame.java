@@ -9,6 +9,7 @@ public class CricketGame {
 		//Create ArrayList of players
 		//Create teams
 		//Create Match
+		//Create MatchController to play the game
 		ArrayList<Player> one = new ArrayList<>();
 		ArrayList<Player> two = new ArrayList<>();
 		
